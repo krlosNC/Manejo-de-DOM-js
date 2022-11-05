@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    cursor: pointer;
+}
+
+#contenido {
+    display: flex;
+    margin: 3px;
+}
+
+#contenido_h {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#contenedor_btn {
+    display: flex;
+    justify-content: center;
+}
+
+#btn_create {
+    padding: 10px;
+    background: black;
+    color: white;
+    border: 2px solid;
+    border-radius: 15px;
+}
